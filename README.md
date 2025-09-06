@@ -5,6 +5,6 @@ For this project I used OpenTK. Based on some reading I did OpenTK provides an e
 # How to Run the Project.
 1. Clone or download the repository to your computer.
 2. Open the solution in Visual Studio.
-3. Make sure you have OpenTK Nuget package installed
+3. Make sure you have OpenTK NuGet package dependencies installed
 4. Build the project
 5. Run the project
